@@ -2,13 +2,12 @@
 * MySQL 8.0
 
 # InnoDB vs MyISAM
-![alt text](innodb_vs_myisam.png)
-###### * 참조
-###### 1. Clustered indexes
-###### Clustered index란? : Primary Key와 같은 개념
-###### Join performance : InnoDB에는 Clustered index / Foriegn key가 존재하기에 join에서는 당연히 성능 좋음, 하지만 MyISAM에서는 Clustered index를 지원하지 않기에 join에서 성능이 별로
-###### 5. Transactions
-###### Commit and Rollback for MyISAM : auto-commit만 지원하고 commit/rollback은 무시
+![alt text](innodb_vs_myisam.png)<br>
+1. Clustered indexes<br>
+Clustered index란? : Primary Key와 같은 개념<br>
+Join performance : InnoDB에는 Clustered index / Foriegn key가 존재하기에 join에서는 당연히 성능 좋음, 하지만 MyISAM에서는 Clustered index를 지원하지 않기에 join에서 성능이 별로<br>
+5. Transactions<br>
+Commit and Rollback for MyISAM : auto-commit만 지원하고 commit/rollback은 무시<br>
 
 # Choosing a storage engine
 1. InnoDB : It is an engine that performs well and offers many of required attributes that any database would need
