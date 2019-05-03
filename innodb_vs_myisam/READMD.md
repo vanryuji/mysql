@@ -1,5 +1,5 @@
 # Environment
-MySQL 8.0
+* MySQL 8.0
 
 # InnoDB vs MyISAM
 ![alt text](innodb_vs_myisam.png)
