@@ -9,8 +9,10 @@ Join performance : https://www.percona.com/blog/2006/05/29/join-performance-of-m
 5. Transactions<br>
 Commit and Rollback for MyISAM : https://stackoverflow.com/questions/8036005/myisam-engine-transaction-support
 
-# Choice engine
-ing......
+# Choosing a storage engine
+https://dev.mysql.com/doc/refman/8.0/en/storage-engines.html
+1. InnoDB : It is an engine that performs well and offers many of required attributes that any database would need
+2. MyISAM : Read-heavy application
 
 # Reference
 * https://dev.mysql.com/doc/refman/8.0/en/storage-engines.html
