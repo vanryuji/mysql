@@ -1,6 +1,9 @@
 # Oveview
 mysql 타입 중 date, datetime, timestamp 비교
 
+# Environment
+* MySQL 8.0
+
 # date vs datetime vs timestamp
 ### 1. date
 foramt : 'YYYY-MM-DD'<br>
