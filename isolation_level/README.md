@@ -10,13 +10,13 @@ About isolation level
 ![alt text](isolation_table.png)<br>
 
 
-# Read Uncommitted
-![alt text](read_uncommitted.png)<br>
+# Dirty Rread
+![alt text](dirty_read.png)<br>
 
 
 
-# Read Committed
-![alt text](read_commited.png)<br>
+# Phantom Read
+![alt text](phantom_read.png)<br>
 
 
 
