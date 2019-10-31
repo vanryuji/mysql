@@ -7,7 +7,7 @@ About isolation level
 * Read Committed
 * Repaeatable Read => MySQL default
 * Serializable
-![alt text](table.png)<br>
+![alt text](isolation_table.png)<br>
 
 
 # Reference
