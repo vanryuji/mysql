@@ -16,7 +16,7 @@ About isolation level
 
 
 # Read Committed
-![alt text](read_committed.png)<br>
+![alt text](read_commited.png)<br>
 
 
 
