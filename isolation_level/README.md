@@ -7,7 +7,6 @@ About isolation level
 * Read Committed
 * Repaeatable Read => MySQL default
 * Serializable
-![alt text](isolation_table.png)<br>
 
 
 # Dirty Rread
@@ -22,4 +21,4 @@ About isolation level
 
 # Reference
 * https://medium.com/@huynhquangthao/mysql-testing-isolation-levels-650a0d0fae75
-* isolation_table.png from https://medium.com/@huynhquangthao/mysql-testing-isolation-levels-650a0d0fae75
+* https://en.wikipedia.org/wiki/Isolation_(database_systems)
