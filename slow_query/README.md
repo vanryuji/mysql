@@ -35,7 +35,7 @@ mysql> show global variables like '%quer%';
 ```bash
 mysql> SELECT SLEEP(11);
 mysql> SELECT SLEEP(11);
-# mysqldumpslow
+$ mysqldumpslow
 Reading mysql slow query log from /var/lib/mysql/203ba254ed70-slow.log
 Count: 2  Time=11.00s (22s)  Lock=0.00s (0s)  Rows=1.0 (2), root[root]@localhost
   select sleep(N)
