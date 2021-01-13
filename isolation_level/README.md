@@ -22,3 +22,4 @@ About isolation level
 # Reference
 * https://medium.com/@huynhquangthao/mysql-testing-isolation-levels-650a0d0fae75
 * https://en.wikipedia.org/wiki/Isolation_(database_systems)
+* https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/
