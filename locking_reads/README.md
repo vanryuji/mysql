@@ -19,3 +19,4 @@ For index records the search encounters, locks the rows and any associated index
 # Reference
 * https://dev.mysql.com/doc/refman/5.7/en/innodb-locking-reads.html
 * https://idea-sketch.tistory.com/47
+* https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/
